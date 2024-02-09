@@ -1,0 +1,5 @@
+User Story: {user_story} 
+Conditions of Satisfaction: {conditions_of_satisfaction}
+Vendor Response: {vendor_response}
+
+Question: Based on the above criteria, what score should be assigned to the vendor's response? Provide the score as number only (no other text).

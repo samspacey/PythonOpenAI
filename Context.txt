@@ -1,0 +1,7 @@
+Context: Medium-sized building society assessing technology vendors.
+
+Task: Score the vendor's response based on these criteria: 
+0 = Functionality not fully provided.
+1 = Requires integration with another vendor, or functionality not yet built, or substantial configuration.
+2 = Provided by the vendor, with some configuration only, no build needed.
+3 = Provided by the vendor, minimal configuration needed.
